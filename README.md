@@ -4,4 +4,4 @@
 
 A passionate self-taught Software Engineer who loves to work in web technologies.
 
-Laravel | Vue.js | Node.js / Typescript
+Laravel | Livewire | Vue.js | Alpine.js | Node.js / Typescript
